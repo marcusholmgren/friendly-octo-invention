@@ -9,3 +9,8 @@ This project uses `uv` with Python 3.14 and includes Jupyter Notebook, pandas, a
 uv sync
 uv run jupyter notebook
 ```
+
+
+## Hugging Face Datasets
+
+(McAuley-Lab/Amazon-Reviews-2023)[https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023]
