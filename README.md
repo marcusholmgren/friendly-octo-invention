@@ -13,4 +13,4 @@ uv run jupyter notebook
 
 ## Hugging Face Datasets
 
-(McAuley-Lab/Amazon-Reviews-2023)[https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023]
+[McAuley-Lab/Amazon-Reviews-2023](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
